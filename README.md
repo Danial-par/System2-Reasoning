@@ -7,7 +7,7 @@ This project implements two methods for symbolic regression: the neural network-
 
 ### 2. [Neuro-Symbolic Question Answering](02_Neuro-Symbolic_QA/)
 
-This project builds a neuro-symbolic system for visual question answering, using a Seq2Seq model to translate natural language questions into executable programs. Reinforcement Learning is used to furthur improve the accuracy.
+This project builds a neuro-symbolic system for visual question answering, using a Seq2Seq model to translate natural language questions into executable programs. Reinforcement Learning is used to further improve the accuracy.
 
 ### 3. [Inference-Time Scaling for Enhanced Reasoning](03_Inference_Time_Scaling/)
 
